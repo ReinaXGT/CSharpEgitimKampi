@@ -39,6 +39,3 @@ SSMS (SQL Server Management Studio) üzerinde oluşturduğum tabloları konsol e
 
 ---
 
-👤 **Geliştirici:** [Senin Adın/Kullanıcı Adın]
-💻 **Dil:** C#
-📚 **Kamp:** C# Eğitim Kampı (Murat Yücedağ)
