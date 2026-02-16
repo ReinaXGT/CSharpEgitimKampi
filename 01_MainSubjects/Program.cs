@@ -44,7 +44,7 @@ namespace _01_MainSubjects
             //string customerEmail, district, city;
 
             //customerName = "Adal";
-            //customerSurname = "Güngördü";
+            //customerSurname = "Gü";
             //customerPhone = "+90 500 400 30 20";
             //customerEmail = "adalgungordu@gmail.com";
             //district = "Magusa";
@@ -109,8 +109,6 @@ namespace _01_MainSubjects
             //int pizzaCount;
             //int lemonadeCount;
 
-            //// Değişkenler - HATA 1 ÇÖZÜMÜ: Hepsine varsayılan olarak 0 atadık.
-            //// Böylece if bloğuna girmese bile hesaplamada hata vermez.
             //int totalHamburgerPrice = 0;
             //int totalCokePrice = 0;
             //int totalWaterPrice = 0;
@@ -128,39 +126,37 @@ namespace _01_MainSubjects
 
             //Console.WriteLine("----- Hesap Bilgisi -----");
 
-            //// Mantık - HATA 2 ÇÖZÜMÜ: 'else if' yerine sadece 'if' kullandık.
-            //// Böylece hem hamburgeri hem de kolayı aynı anda hesaplayabilir.
             //if (hamburgerCount != 0)
             //{
             //    totalHamburgerPrice = hamburgerPrice * hamburgerCount;
             //    Console.WriteLine(hamburgerCount + "X Hamburger Fiyatı: " + totalHamburgerPrice);
             //}
 
-            //if (cokeCount != 0) // 'else if' yerine 'if'
+            //if (cokeCount != 0) //  '
             //{
             //    totalCokePrice = cokePrice * cokeCount;
             //    Console.WriteLine(cokeCount + "X Cola Fiyatı: " + totalCokePrice);
             //}
 
-            //if (waterCount != 0) // 'else if' yerine 'if'
+            //if (waterCount != 0) //  '
             //{
             //    totalWaterPrice = waterPrice * waterCount;
             //    Console.WriteLine(waterCount + "X Su Fiyatı: " + totalWaterPrice);
             //}
 
-            //if (friesCount != 0) // 'else if' yerine 'if'
+            //if (friesCount != 0) //  '
             //{
             //    totalFriesPrice = friesPrice * friesCount;
             //    Console.WriteLine(friesCount + "X Kızartma Fiyatı: " + totalFriesPrice);
             //}
 
-            //if (pizzaCount != 0) // 'else if' yerine 'if'
+            //if (pizzaCount != 0) //  '
             //{
             //    totalPizzaPrice = pizzaPrice * pizzaCount;
             //    Console.WriteLine(pizzaCount + "X Pizza Fiyatı: " + totalPizzaPrice);
             //}
 
-            //if (lemonadeCount != 0) // 'else if' yerine 'if'
+            //if (lemonadeCount != 0) //  '
             //{
             //    totalLemonadePrice = lemonadePrice * lemonadeCount;
             //    Console.WriteLine(lemonadeCount + "X Limonata Fiyatı: " + totalLemonadePrice);
